@@ -5,7 +5,7 @@ Ce projet a pour but de modéliser et de prédire les risques liés aux maladies
 1. **Classification :** Prédire le risque d'accident cardiaque (`Heart_Disease_Risk`) à partir des caractéristiques des patients.
 2. **Régression :** Prédire le taux de "mauvais" cholestérol (`Cholesterol_LDL`) en fonction des autres variables cliniques et comportementales.
 
-## 📥 Récupération des données
+## Récupération des données
 Les données utilisées sont issues d'un jeu de données synthétiques de la plateforme Kaggle. Bien que synthétiques, elles respectent les heuristiques médicales et les corrélations réalistes (ex: relation entre âge, IMC et pression artérielle).
 
 🔗 [Télécharger le dataset Cardiovascular Disease Risk Prediction ici](https://www.kaggle.com/datasets/bertnardomariouskono/cardiovascular-disease-risk-prediction-dataset)
